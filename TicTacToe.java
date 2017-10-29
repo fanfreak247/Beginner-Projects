@@ -1,3 +1,9 @@
+/*
+  Copyright © FanFreak247  All rights reserved.
+  Permission granted to reproduce for personal and educational use only. Commercial copying, hiring, lending is prohibited.
+  May be used free of charge. Selling without prior written consent prohibited. Obtain permission before redistributing. In all cases this notice must remain intact.
+*/
+
 import java.util.Scanner;
 public class TicTacToe
 {
