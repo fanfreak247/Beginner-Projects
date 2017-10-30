@@ -41,9 +41,9 @@ public class TicTacToe
                     System.out.println("Something is already there. Try again.");
                 }
             }
-            catch (ArrayIndexOutOfBoundsException e)
+            catch (Exception e)
             {
-                System.out.println("That's out of bounds. Try again.");
+                System.out.println("There was an error. Please try again.");
             }
         }
     }
